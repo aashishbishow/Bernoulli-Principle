@@ -102,9 +102,12 @@ The simulation demonstrates these core fluid dynamic principles:
     1.Continuity Equation: As fluid flows through changing pipe diameters,
       the product of area and velocity remains constant.
       This is visually demonstrated by faster-moving particles in narrow sections.
+      
     2.Bernoulli's Principle: The inverse relationship between velocity and pressure
       is shown in the dynamic graphs, where pressure drops in sections with higher velocity.
+      
     3.Conservation of Mass: The simulation maintains constant mass flow rate throughout the pipe system,
       regardless of geometry changes.
+      
     4.Flow Adaptation: The visualization shows how fluid adapts to changing
       geometries while maintaining physical constraints.
